@@ -1,7 +1,5 @@
-# DICOM_Preprocessing_Uisg_MONAI
+# DICOM_Preprocessing_With_MONAI
 
-
-Below is a cleaned-up, GitHub-ready version. I have incorporated the `KeyError: 'pixdim'` issue and corrected the voxel-spacing section so that it uses MONAI's affine matrix rather than assuming a `pixdim` metadata field.
 
 # Chest CT Preprocessing with MONAI
 
